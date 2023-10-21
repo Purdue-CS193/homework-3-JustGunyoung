@@ -3,7 +3,9 @@ Hello my man, how's life?
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+git fetch gets the data from the remote repository to the local repository. This code helps everyone using the same remote repository stay up to date in their local repository. 
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
+While Git is a version control system that helps the users save their work without losing the past data, Github is a hosting service platform where users can store their repositories.
 
